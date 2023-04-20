@@ -60,6 +60,7 @@ This script sends a POST request to the /predict endpoint with a sample iris flo
 ### For example:
 ### Ex1
 POST:
+
 {
   "features": [5.1, 3.5, 1.4, 0.2]
 }
@@ -74,6 +75,7 @@ output:
 
 ### Ex1
 POST:
+
 {
   "features": [6.0, 2.9, 4.5, 1.5]
 }
@@ -88,6 +90,7 @@ output:
 
 ### Ex2
 POST:
+
 {
   "features": [6.3, 3.3, 6.0, 2.5]
 }
