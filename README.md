@@ -30,15 +30,18 @@ python utilize.py
 python REST_API.py
 
 4. Test the REST API
-'''
+
 import requests
 
 url = "http://127.0.0.1:5000/predict"
+
 data = {"features": [5.1, 3.5, 1.4, 0.2]}  # Replace with your own feature values
 
 response = requests.post(url, json=data)
+
 print(response.json())
-'''
+
+
 This script sends a POST request to the /predict endpoint with a sample iris flower's measurements and prints out the predicted class.
 
 ## To send a request and receive a response using Postman, follow these steps:
