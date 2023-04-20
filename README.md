@@ -65,7 +65,7 @@ POST:
   "features": [5.1, 3.5, 1.4, 0.2]
 }
 
-output:
+Output:
 
 {
   "class": [
@@ -80,7 +80,7 @@ POST:
   "features": [6.0, 2.9, 4.5, 1.5]
 }
 
-output:
+Output:
 
 {
   "class": [
@@ -95,7 +95,7 @@ POST:
   "features": [6.3, 3.3, 6.0, 2.5]
 }
 
-output:
+Output:
 
 {
   "class": [
