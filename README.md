@@ -62,7 +62,7 @@ This script sends a POST request to the /predict endpoint with a sample iris flo
 
 ### For example:
 ### Ex1
-POST:
+POST: 
 
 {
   "features": [5.1, 3.5, 1.4, 0.2]
